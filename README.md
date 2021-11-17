@@ -1,4 +1,4 @@
-# Building comment triplets and measuring toxicity on Reddit and Twitter
+# Constructing comment triplets and measuring toxicity on Reddit and Twitter
 
 1) Collecting initial tweets and reddit submissions:
 tweets.R
